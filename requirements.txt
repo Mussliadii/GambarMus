@@ -1,17 +1,7 @@
-# Core Streamlit app
 streamlit
+ultralytics==8.0.196
 pillow
+opencv-python-headless
 numpy
 pandas
 plotly
-opencv-python-headless
-
-# YOLOv8 object detection (ultralytics ringan)
-ultralytics==8.0.196
-
-# TensorFlow CPU-only
-tensorflow-cpu==2.12.0
-keras==2.12.0
-
-# Backend minimal
-protobuf==3.20.*
